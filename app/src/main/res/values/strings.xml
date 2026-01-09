@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comic Generator</string>
+    <string name="prompt_hint">Enter your comic idea (e.g., "spiderman fights a gorilla")</string>
+    <string name="reading_time_label">Reading Time (minutes)</string>
+    <string name="age_label">Child Age</string>
+    <string name="generate_button">Generate Comic</string>
+    <string name="loading">Generating your comic...</string>
+    <string name="error_empty_prompt">Please enter a comic idea</string>
+    <string name="error_generation">Failed to generate comic. Please try again.</string>
+    <string name="api_key_missing">API key not configured. Please add your OpenAI API key.</string>
+</resources>
